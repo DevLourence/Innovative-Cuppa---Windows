@@ -1,0 +1,8 @@
+Analyzing innovative...                                         
+
+   info - Unnecessary 'const' keyword - lib\pages\inventory_page.dart:509:28 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\pages\sales_page.dart:302:135 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\pages\sales_page.dart:369:146 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\pages\sales_page.dart:440:138 - unnecessary_const
+
+4 issues found. (ran in 2.2s)
