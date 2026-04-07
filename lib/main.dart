@@ -26,8 +26,8 @@ void main() async {
   await PersistenceService.loadState();
   
   await Supabase.initialize(
-    url: 'https://lkeohgoekdvfyqilqfzq.supabase.co',
-    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxrZW9oZ29la2R2ZnlxaWxxZnpxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMzMjM4ODAsImV4cCI6MjA4ODg5OTg4MH0.AyPQTUIJamW4UDO3oxKd1-akia_WE3ARF2Pc38wA2Xg',
+    url: 'https://lkeohq.supabase.co',
+    anonKey: 'ODAsImV4cCI6MjA4ODg5OTg4MH0.AyPQTUIJamW4UDO3oxKd1-akia_WE3ARF2Pc38wA2Xg',
   );
 
   await SupabaseService.init();
